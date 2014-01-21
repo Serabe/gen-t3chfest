@@ -1,0 +1,37 @@
+{
+  "name": "gen-t3chfest",
+  "version": "0.0.1",
+  "description": "Taller de generadores de JavaScript para t3chfest",
+  "main": "index.js",
+  "scripts": {
+
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Serabe/gen-t3chfest.git"
+  },
+  "keywords": [
+    "generators",
+    "coroutines",
+    "harmony"
+  ],
+  "dependencies": {
+    "co": "3.0.x",
+    "koa": "0.2.x",
+    "co-fs": "1.1.x",
+    "thunkify": "0.0.x"
+  },
+  "author": {
+    "name": "Sergio Arbeo",
+    "email": "serabe@gmail.com",
+    "url": "http://twitter.com/Serabe"
+  },
+  "license": "MIT",
+  "engines": {
+    "node": "0.11.x"
+  },
+  "bugs": {
+    "url": "https://github.com/Serabe/gen-t3chfest/issues"
+  },
+  "homepage": "https://github.com/Serabe/gen-t3chfest"
+}
