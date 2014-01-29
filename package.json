@@ -19,7 +19,8 @@
     "co": "3.0.x",
     "koa": "0.2.x",
     "co-fs": "1.1.x",
-    "thunkify": "0.0.x"
+    "thunkify": "0.0.x",
+    "async": "0.2.x"
   },
   "author": {
     "name": "Sergio Arbeo",
