@@ -17,3 +17,7 @@ Bájate este repositorio e instala sus paquetes. Para ello, realiza los siguient
 ## Taller
 
 Ven al taller del [t3chfest](https://techfest.uc3m.es/programa/taller-de-generadores-en-node/) el 6 de febrero a las 15:00. ¡El aforo es limitado!
+
+## Otros
+
+Revisa este repositorio un día antes del taller, por si cambia algún detalle.
